@@ -22,7 +22,7 @@ body {
 .main-container {
     width: 100%;
     max-width: 1440px;
-    min-width: 1024px;
+   
     padding: 0 50px;
     box-sizing: border-box; 
 }
@@ -228,7 +228,7 @@ ul a {
 } 
 
 .ligne-bleu:hover {
-    color:black;
+    color:#0065FC;
     border-top: 2px solid #0065FC;
     padding-top: 13px;
 } 
